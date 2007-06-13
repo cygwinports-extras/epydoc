@@ -1,0 +1,8 @@
+category: Doc Python
+requires: python
+sdesc: "Python API documentation generator"
+ldesc: "Epydoc is a tool for generating API documentation for Python
+modules, based on their docstrings.  A lightweight markup language
+called epytext can be used to format docstrings, and to add
+information about specific fields, such as parameters and instance
+variables."
