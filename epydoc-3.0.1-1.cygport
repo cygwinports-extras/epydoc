@@ -1,0 +1,5 @@
+inherit distutils
+
+DESCRIPTION="Python API documentation generator"
+HOMEPAGE="http://epydoc.sourceforge.net/"
+SRC_URI="mirror://sourceforge/${PN}/${P}.tar.gz"
